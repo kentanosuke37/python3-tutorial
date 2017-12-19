@@ -6,3 +6,4 @@ Python3の入門をipynbにまとめたものです．
 2. 数値型について(python_lecture02.ipynb)
 3. 文字列および出力形式について(python_lecture03.ipynb)
 4. listついて(python_lecture04.ipynb)
+5. dictionary, tupleおよびファイル操作ついて(python_lecture05.ipynb)
