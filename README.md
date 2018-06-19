@@ -12,7 +12,9 @@ Python3の入門をipynbにまとめたものです．
 7. if文, for文, while文について(python_lecture07.ipynb)
 8. リスト内包，generator，dictionary内包，generator内包について(python_lecture08.ipynb)
 9. method，function，lambda式および関数内関数について(python_lecture09.ipynb)
+10. classについて(python_lecture10.ipynb)
 
 ## 宿題の目次
 1. 数値型，文字列，リスト，ディクショナリ，タプルの確認(assignment01.ipynb,assignment01_solution.ipynb)
 2. for，if，リスト内包，ディクショナリ内包の確認(assignment02.ipynb,assignment02_solution.ipynb)
+3. method, function, lambda式の確認(assignment03.ipynb, assignment03_solution.ipynb)
