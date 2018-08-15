@@ -18,3 +18,4 @@ Python3の入門をipynbにまとめたものです．
 1. 数値型，文字列，リスト，ディクショナリ，タプルの確認(assignment01.ipynb,assignment01_solution.ipynb)
 2. for，if，リスト内包，ディクショナリ内包の確認(assignment02.ipynb,assignment02_solution.ipynb)
 3. method, function, lambda式の確認(assignment03.ipynb, assignment03_solution.ipynb)
+4. classの練習(assignment04.ipynb, assignment04_solution.ipynb)
