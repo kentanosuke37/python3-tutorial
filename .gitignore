@@ -1,3 +1,4 @@
 *.bin
 *.txt
 .ipynb_checkpoints
+tic_tac_toe_doc
