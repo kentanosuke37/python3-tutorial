@@ -177,7 +177,7 @@ class Tic_Tac_Tone(object):
 
 
     def change_turn(self):
-        """Chainging turn of players
+        """Changing turn of players
 
         Returns
         -------
