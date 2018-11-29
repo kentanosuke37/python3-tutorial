@@ -252,7 +252,10 @@ class Tic_Tac_Tone(object):
             display =  'Choose {} ==> {} next position : (1-9) '.format(self.turn, self.player2_marker)
 
         while position not in [1,2,3,4,5,6,7,8,9] or not self.space_check(position):
-            position = int(input(display))
+            try:
+                position = int(input(display))
+            except ValueError:
+                position = -1
 
         return position
 
